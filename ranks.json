@@ -1,10 +1,8 @@
-{
-  [
-    {
-        "rank": "Owner"
-        "users": [
-            "SwiftClient"
-        ]
-    }
-  ]
-}
+[
+  {
+    "rank": "Owner",
+    "users": [
+      "SwiftClient"
+    ]
+  }
+]
