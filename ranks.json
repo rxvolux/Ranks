@@ -24,3 +24,12 @@
         }
     }
 }
+
+{
+    "xItsSunny": {
+        "role": {
+            "name": "Builder",
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Media.png"
+        }
+    }
+}
