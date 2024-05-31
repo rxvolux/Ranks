@@ -6,3 +6,12 @@
         }
     }
 }
+
+{
+    "tarkapanda": {
+        "role": {
+            "name": "Creative Team",
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/CreativeHelper.png"
+        }
+    }
+}
