@@ -1,35 +1,32 @@
 {
-    "Revolux": {
-        "role": {
+    "roles": {
+        "Owner": {
             "name": "Owner",
-            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Owner.png"
-        }
-    }
-}
-
-{
-    "tarkapanda": {
-        "role": {
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Owner.png",
+            "members": [
+                "Revolux"
+            ]
+        },
+        "Creative Team": {
             "name": "Creative Team",
-            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/CreativeHelper.png"
-        }
-    }
-}
-
-{
-    "Isaac_XD": {
-        "role": {
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/CreativeHelper.png",
+            "members": [
+                "tarkapanda"
+            ]
+        },
+        "Builder": {
             "name": "Builder",
-            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Builder.png"
-        }
-    }
-}
-
-{
-    "xItsSunny": {
-        "role": {
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Builder.png",
+            "members": [
+                "Isaac_XD"
+            ]
+        },
+        "Media": {
             "name": "Builder",
-            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Media.png"
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Media.png",
+            "members": [
+                "xItsSunny"
+            ]
         }
     }
 }
