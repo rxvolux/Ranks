@@ -1,32 +1,26 @@
 {
-    "roles": {
-        "Owner": {
+    "Revolux": {
+        "role": {
             "name": "Owner",
-            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Owner.png",
-            "members": [
-                "Revolux"
-            ]
-        },
-        "Creative Team": {
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Owner.png"
+        }
+    },
+    "tarkapanda": {
+        "role": {
             "name": "Creative Team",
-            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/CreativeHelper.png",
-            "members": [
-                "tarkapanda"
-            ]
-        },
-        "Builder": {
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/CreativeHelper.png"
+        }
+    },
+    "Isaac_XD": {
+        "role": {
             "name": "Builder",
-            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Builder.png",
-            "members": [
-                "Isaac_XD"
-            ]
-        },
-        "Media": {
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Builder.png"
+        }
+    },
+    "xItsSunny": {
+        "role": {
             "name": "Builder",
-            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Media.png",
-            "members": [
-                "xItsSunny"
-            ]
+            "icon": "https://raw.githubusercontent.com/rxvolux/Ranks/main/RoleIcons/Media.png"
         }
     }
 }
